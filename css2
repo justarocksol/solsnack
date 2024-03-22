@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Stint Ultra Expanded';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/stintultraexpanded/v22/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd0qo.ttf) format('truetype');
+}

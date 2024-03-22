@@ -1,0 +1,16 @@
+Uri: https://fonts.googleapis.com/css2?display=swap&family=Stint+Ultra+Expanded:ital,wght@0,400;1,400
+File Name: C:\Users\박진호\Desktop\사이트복제\solsnack.xyz\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/stintultraexpanded/v22/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd0qo.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\solsnack.xyz\s\stintultraexpanded\v22\CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd0qo.ttf
+Content Type: font/ttf
+
+Uri: https://solsnack.xyz/
+File Name: C:\Users\박진호\Desktop\사이트복제\solsnack.xyz\index.htm
+Content Type: text/html
+
+Uri: https://solsnack.xyz/assets/images/bg.jpg?v=b214c6b3
+File Name: C:\Users\박진호\Desktop\사이트복제\solsnack.xyz\assets\images\bg.jpg
+Content Type: image/jpeg
+
